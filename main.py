@@ -1,7 +1,7 @@
 # John Raven F. Caduyac
 # CD-3L
 # a simple inventory management system for chemical storage
-import Caduyac_ex7
+import additional
 
 chemicals = {}
 def main():
